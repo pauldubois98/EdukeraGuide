@@ -1,2 +1,1 @@
-# EdukeraGuide
-Un petit guide sur le fonctionnement de la plateforme Edukera
+# EdukeraGuideUn petit guide sur le fonctionnement de la plateforme [Edukera](https://www.edukera.com/) (*https://www.edukera.com/*).Cette application permet de s'exercer à la logique, entre autres, à la déduction naturelle.=> Fait dans le cadre d'un stage à l'IRIT.
